@@ -1,0 +1,8 @@
+total lines: 10000
+total seqs:  5000
+total headers:  5000
+total matches:  1292
+total length:  146544
+average length:  29.3088
+% matching of length:  0.881646467955
+% matching sequences:  25.84

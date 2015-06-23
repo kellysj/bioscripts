@@ -1,0 +1,8 @@
+total lines: 71656
+total seqs:  35828
+total headers:  35828
+total matches:  7096
+total length:  781222
+average length:  21.8047895501
+% matching of length:  0.908320554209
+% matching sequences:  19.8057385285
